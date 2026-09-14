@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DingleberryWasHere&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000" width="450" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DingleberryWasHere&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
 <div align="center">
