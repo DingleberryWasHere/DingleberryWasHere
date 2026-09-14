@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1948-aesthetic.gif" width="100%">
+  <img src="1948-aesthetic.gif" width="600">
 </div>
 
 <h1 align="center">Hi there 👋</h1>
@@ -15,6 +15,14 @@
   🌱 My skills are Lua, Python, Web Design, C/C++ <br>
   😄 Pronouns: He/Him
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DingleberryWasHere&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=00000000" width="450" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D291BC&height=80&section=footer" width="100%">
