@@ -1,4 +1,6 @@
-![Banner](1948-aesthetic.gif)
+<div align="center">
+  <img src="1948-aesthetic.gif" width="800">
+</div>
 
 ## Hi there 👋
 
