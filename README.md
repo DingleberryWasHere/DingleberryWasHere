@@ -16,10 +16,6 @@
   😄 Pronouns: He/Him
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DingleberryWasHere&theme=radical&no-frame=true&margin-w=10&row=1" />
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D291BC&height=80&section=footer" width="100%">
 </div>
