@@ -2,7 +2,7 @@
   <img src="1948-aesthetic.gif" width="600">
 </div>
 
-<h1 align="center">Hi there </h1>
+<h1 align="center">Hi there</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-FF69B4?style=for-the-badge&logo=lua&logoColor=white" />
